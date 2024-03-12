@@ -9,8 +9,8 @@ This boilerplate was made for this [blog post](https://medium.freecodecamp.org/d
 ## Setup
 ```
 npm install -g truffle
-git clone https://github.com/tko22/truffle-webpack-boilerplate.git
-cd truffle-webpack-boilerplate
+git clone https://github.com/piggyking123/boilerplate_webpack_truffle.git
+cd boilerplate_webpack_truffle
 npm install
 npm run dev
 ```
